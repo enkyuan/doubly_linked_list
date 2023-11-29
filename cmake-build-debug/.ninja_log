@@ -1,0 +1,17 @@
+# ninja log v5
+0	1675	1701103909987337126	CMakeFiles/doubly_linked_list.dir/main.cpp.o	e41ed1dfc8c525fe
+1679	1847	1701103910170762274	doubly_linked_list	c897a8942f5a1d91
+6	1008	1701103930797253017	CMakeFiles/doubly_linked_list.dir/main.cpp.o	e41ed1dfc8c525fe
+1008	1135	1701103930927337522	doubly_linked_list	c897a8942f5a1d91
+4	1305	1701110631870317045	CMakeFiles/doubly_linked_list.dir/main.cpp.o	e41ed1dfc8c525fe
+1305	1438	1701110632011924425	doubly_linked_list	c897a8942f5a1d91
+6	948	1701226679078057094	CMakeFiles/doubly_linked_list.dir/main.cpp.o	e41ed1dfc8c525fe
+948	1043	1701226679175216102	doubly_linked_list	c897a8942f5a1d91
+4	1183	1701227024339416771	CMakeFiles/doubly_linked_list.dir/main.cpp.o	e41ed1dfc8c525fe
+1184	1274	1701227024433934908	doubly_linked_list	c897a8942f5a1d91
+4	1232	1701227637213128505	CMakeFiles/doubly_linked_list.dir/main.cpp.o	e41ed1dfc8c525fe
+1232	1337	1701227637328130958	doubly_linked_list	c897a8942f5a1d91
+4	930	1701227674871766699	CMakeFiles/doubly_linked_list.dir/main.cpp.o	e41ed1dfc8c525fe
+931	1020	1701227674966524403	doubly_linked_list	c897a8942f5a1d91
+4	942	1701227739977324151	CMakeFiles/doubly_linked_list.dir/main.cpp.o	e41ed1dfc8c525fe
+942	1021	1701227740058838244	doubly_linked_list	c897a8942f5a1d91
