@@ -2,5 +2,5 @@
 
 ## about
 
-## usage
+implementation of linked list data structure
 
